@@ -1,7 +1,6 @@
 import React from "react";
 import { Card } from "react-bootstrap";
 import "../css/project-card.css";
-import { Link } from "react-router-dom";
 
 const ProjectCard = (props) => {
   return (

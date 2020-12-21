@@ -1,9 +1,10 @@
 .job-container:hover {
-  padding: 1%;
   background-color: #86eecb;
-  transition: 1s ease;
+  transition: 1.5s ease;
+  padding: 1%;
 }
 
 .job-container:hover .highlight-text {
   color: black;
+  transition: 1.5s ease;
 }
