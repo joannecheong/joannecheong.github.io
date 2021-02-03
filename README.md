@@ -1,5 +1,5 @@
 # Deploying App to GitHub
-# npm run deploy
+npm run deploy
 
 # Getting Started with Create React App
 
